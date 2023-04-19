@@ -16,8 +16,8 @@ let isRepeat = false;
 // const musics = ["holo.mp3", "summer.mp3", "spark.mp3", "home.mp3"];
 const musics = [{
         id: 1,
-        title: "Em luôn trong tim anh",
-        file: "Em luôn trong tim anh.mp3",
+        title: "Nhạc sống sông Lam",
+        file: "nhac song song lam.mp3",
         image: "https://hinhgaixinh.com/wp-content/uploads/2021/07/20210521-gai-xinh-goi-cam-1.jpg",
     },
     {
@@ -74,6 +74,12 @@ const musics = [{
         file: "Bí mật tam giác vàng.mp3",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Yw7SeJo3zSfNXrO5HUBD2xwIUERsINBpXQ&usqp=CAU",
     },
+    {
+        id: 11,
+        title: "Em luôn trong tim anh",
+        file: "Em luôn trong tim anh.mp3",
+        image: "https://hinhgaixinh.com/wp-content/uploads/2021/07/20210521-gai-xinh-goi-cam-1.jpg",
+    }
 ];
 /**
  * Music
